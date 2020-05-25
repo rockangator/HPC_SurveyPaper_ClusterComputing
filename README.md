@@ -1,16 +1,25 @@
 # HPC_SurveyPaper_ClusterComputing
 Survey paper on Cluster computing for HPC
 
-## Codes include: 
+## Codes include
 Image processing algorithms for wheat count using canny edge and watershed
 
 Finding total number of primes in a range
 
 EEG signal processing(FFT)
 
-Requirements: Raspberry Pi (cluster), python3, MPI4PY, numpy, pandas
+Requirements: 
 
-## Team:
+```Raspberry Pi (cluster), python3, MPI4PY, numpy, pandas```
+
+## Cluster setup
+
+Primary references: 
+
+<https://magpi.raspberrypi.org/articles/build-a-raspberry-pi-cluster-computer>
+<https://github.com/mrpjevans/cluster-prime>
+
+## Team
 ```
 Harsh Kataria
 Ambuje Gupta
@@ -42,3 +51,9 @@ on High Performance Computing, pages 405–414. IEEE.
 Yufeng Yao, Jinyi Chang, and Kaijian Xia. 2009. A case of parallel eeg data processing upon a beowulf cluster.
 In 2009 15th International Conference on Parallel and Distributed Systems, pages 799–803. IEEE.
 ```
+
+## Cluster images
+![alt text](https://github.com/rockangator/HPC_SurveyPaper_ClusterComputing/blob/master/setup%20images/1.jpeg)
+![alt text](https://github.com/rockangator/HPC_SurveyPaper_ClusterComputing/blob/master/setup%20images/2.jpeg)
+![alt text](https://github.com/rockangator/HPC_SurveyPaper_ClusterComputing/blob/master/setup%20images/3.jpeg)
+![alt text](https://github.com/rockangator/HPC_SurveyPaper_ClusterComputing/blob/master/setup%20images/4.jpeg)
