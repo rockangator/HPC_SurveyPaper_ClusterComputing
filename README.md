@@ -15,7 +15,6 @@ Requirements:
 ## Cluster setup
 
 Primary references: 
-
 <https://magpi.raspberrypi.org/articles/build-a-raspberry-pi-cluster-computer>
 <https://github.com/mrpjevans/cluster-prime>
 
