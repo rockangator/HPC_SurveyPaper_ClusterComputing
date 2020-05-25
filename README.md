@@ -52,7 +52,7 @@ In 2009 15th International Conference on Parallel and Distributed Systems, pages
 ```
 
 ## Cluster images
-![alt text](https://github.com/rockangator/HPC_SurveyPaper_ClusterComputing/blob/master/setup%20images/1.jpeg)
-![alt text](https://github.com/rockangator/HPC_SurveyPaper_ClusterComputing/blob/master/setup%20images/2.jpeg)
-![alt text](https://github.com/rockangator/HPC_SurveyPaper_ClusterComputing/blob/master/setup%20images/3.jpeg)
-![alt text](https://github.com/rockangator/HPC_SurveyPaper_ClusterComputing/blob/master/setup%20images/4.jpeg)
+<img src="https://github.com/rockangator/HPC_SurveyPaper_ClusterComputing/blob/master/setup%20images/1.jpeg" width="500">
+<img src="https://github.com/rockangator/HPC_SurveyPaper_ClusterComputing/blob/master/setup%20images/2.jpeg" width="400">
+<img src="https://github.com/rockangator/HPC_SurveyPaper_ClusterComputing/blob/master/setup%20images/3.jpeg" width="400">
+<img src="https://github.com/rockangator/HPC_SurveyPaper_ClusterComputing/blob/master/setup%20images/4.jpeg" width="500">
